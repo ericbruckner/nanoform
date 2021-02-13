@@ -1,0 +1,13 @@
+#include "martini_v2.2.itp"
+    
+
+  
+#include "PA.itp"
+    
+[ system ]
+; name
+Martini system from PA_aa.pdb
+    
+[ molecules ]
+; name        number
+PA       1058
