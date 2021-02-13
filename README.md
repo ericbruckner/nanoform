@@ -28,7 +28,7 @@ An example on how to generate a fiber morphology. See "example" directory for ho
 ### Filename for corresponding MARTINI topology file
     topo = 'PA.top'
 
-### Filename simulation box .gro file
+### Filename for simulation box .gro file
     output_filename = 'PA_fiber.gro'
 
 ### Set Parameters
