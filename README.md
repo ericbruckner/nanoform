@@ -42,4 +42,4 @@ An example on how to generate a fiber morphology. See "example" directory for ho
     offset = 4 # offset of molecules from micelle core (angstroms)
 
 ### Generate Structure
-main.pdb2fiber(pdb, output_filename, topfilename = topo, Lx = Lx, Ly = Ly, Lz = Lz, n_radial_cross_section = n_radial_cross_section, stacking_distance = stacking_distance, offset = offset)
+    main.pdb2fiber(pdb, output_filename, topfilename = topo, Lx = Lx, Ly = Ly, Lz = Lz, n_radial_cross_section = n_radial_cross_section, stacking_distance = stacking_distance, offset = offset)
