@@ -17,7 +17,7 @@ main.py is the main script that lets you do all the above as shown by the exampl
 ## Examples
 An example on how to generate a fiber morphology. See "example" directory for how to make micelle and bilayer geometeries
 
-![Image of nanofiber](https://github.com/ericbruckner/nanoform/blob/main/examples/fiber/sample_output/fiber.bmp)
+![Image of nanofiber](https://github.com/ericbruckner/nanoform/blob/main/examples/fiber/sample_output/fiber_highres.png)
 
 ### Import Libraries
     import numpy as np
